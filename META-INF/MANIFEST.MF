@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_60 (Oracle Corporation)
+Main-Class: com/Duke0200/AGame/Main
+
+Name: com/Duke0200/AGame
+Sealed: true
+
+Name: com/Duke0200/AGame/Assets
+Sealed: true
+
